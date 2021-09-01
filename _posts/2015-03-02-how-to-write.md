@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 这是一篇博客文章模板
-date: 2015-3-02
+title: 我的第一篇博客
+date: 2021-9-01
 categories: blog
-tags: [标签一,标签二]
+tags: [介绍]
 description: 文章金句。
 ---
 
-这里是博客正文。
+2021.9.1我通过github托管建立此博客，仅此记录
 
 
 
